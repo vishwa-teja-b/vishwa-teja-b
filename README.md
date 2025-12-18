@@ -11,7 +11,7 @@ One thing I take seriously: **clarity over chaos** 🧹 — clean code, clear AP
 - 🌱 Currently learning **Spring Boot (Advanced), System Design** ☁️  
 - 💼 Building a **Real-Time Lost & Found Network** (Spring Boot + React) 🧭  
 - 🧠 Strong in **DSA, problem-solving, and backend logic** 🧩  
-- 📫 Reach me at: **vishwateja2k4@gmail.com** | **linkedin.com/in/bvishwateja** 🔗  
+- 📫 Reach me at: **vishwateja2k4@gmail.com**🔗  
 - 🎯 Goal: **Become the engineer I once searched for on YouTube** 🎓  
 
 ---
