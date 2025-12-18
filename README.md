@@ -1,14 +1,14 @@
-### Hi there 👋, I’m Vishwa Teja 😊  
+### Hi there 👋, I’m Vishwateja 😊  
 
-I’m **Vishwa Teja**, a **Full-Stack Developer** with a strong backend mindset 🧠.  
+I’m **Vishwateja Brahmaraouthu**, a **Full-Stack Developer** with a strong backend mindset 🧠.  
 I enjoy building **scalable, real-world applications** and deeply understanding **how systems work under the hood** ⚙️.  
 
-I started my programming journey with **C & C++**, grew strong in **DSA**, and later moved into **Java Full Stack development** ☕.  
+I started my programming journey with **Python**, grew strong in **DSA**, and later moved into **Java Full Stack development** ☕.  
 Currently, I focus on **Spring Boot, MongoDB/MySQL, and React**, while building production-level projects 🚀.  
 
 One thing I take seriously: **clarity over chaos** 🧹 — clean code, clear APIs, and predictable systems matter more than flashy buzzwords ✨.  
 
-- 🌱 Currently learning **Spring Boot (Advanced), System Design & Cloud fundamentals** ☁️  
+- 🌱 Currently learning **Spring Boot (Advanced), System Design** ☁️  
 - 💼 Building a **Real-Time Lost & Found Network** (Spring Boot + React) 🧭  
 - 🧠 Strong in **DSA, problem-solving, and backend logic** 🧩  
 - 📫 Reach me at: **vishwateja2k4@gmail.com** | **linkedin.com/in/bvishwateja** 🔗  
