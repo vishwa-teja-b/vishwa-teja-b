@@ -92,14 +92,6 @@ One thing I take seriously: **clarity over chaos** 🧹 — clean code, clear AP
 
 ---
 
-## 📊 GitHub Stats
-
-![Vishwateja's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
 ## 🧪 Fun Fact
 
 I enjoy **deep focus work**, logical problem-solving, and building systems that actually scale 🧠⚙️. Currently exploring the intersection of **traditional backend development** and **AI-powered applications** to create smarter, more efficient software solutions.
