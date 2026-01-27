@@ -2,11 +2,11 @@
 
 I'm **Vishwateja Brahmaraouthu**, a **Full-Stack Developer** with a strong backend mindset 🧠 and growing expertise in **Generative AI** 🤖. I enjoy building **scalable, real-world applications** and deeply understanding **how systems work under the hood** ⚙️.
 
-I started my programming journey with **Python**, grew strong in **DSA**, and later moved into **Java Full Stack development** ☕. Currently, I focus on **Spring Boot, MongoDB/MySQL, React**, and **RAG pipelines with LLM integration**, while building production-level projects 🚀.
+I started my programming journey with **Python**, grew strong in **DSA**, and later moved into **Java Full Stack development** ☕. Currently, I focus on **Spring Boot, FastAPI, MongoDB/MySQL, React**, and **RAG pipelines with LLM integration**, while building production-level projects 🚀.
 
 One thing I take seriously: **clarity over chaos** 🧹 — clean code, clear APIs, and predictable systems matter more than flashy buzzwords ✨.
 
-- 🌱 Currently learning **Spring Boot (Advanced), RAG Pipelines, LLM Integration, System Design** ☁️
+- 🌱 Currently learning **Spring Boot (Advanced), FastAPI, RAG Pipelines, LLM Integration, System Design** ☁️
 - 💼 Building a **Real-Time Lost & Found Network** (Spring Boot + React) 🧭
 - 🤖 Working with **LangChain, Vector Databases, and AI-powered applications**
 - 🧠 Strong in **DSA, problem-solving, and backend logic** 🧩
