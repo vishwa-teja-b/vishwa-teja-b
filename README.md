@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Vishwateja 😊
+# Hi there 👋, I'm Vishwa 😊
 
 I'm **Vishwateja Brahmaraouthu**, a **Full-Stack Developer** with a strong **backend-first mindset** 🧠 and equal depth in **Java and Python ecosystems** ☕🐍.
 
