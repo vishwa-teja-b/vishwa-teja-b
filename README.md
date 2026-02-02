@@ -1,17 +1,28 @@
 # Hi there 👋, I'm Vishwateja 😊
 
-I'm **Vishwateja Brahmaraouthu**, a **Full-Stack Developer** with a strong backend mindset 🧠 and growing expertise in **Generative AI** 🤖. I enjoy building **scalable, real-world applications** and deeply understanding **how systems work under the hood** ⚙️.
+I'm **Vishwateja Brahmaraouthu**, a **Full-Stack Developer** with a strong **backend-first mindset** 🧠 and equal depth in **Java and Python ecosystems** ☕🐍.
 
-I started my programming journey with **Python**, grew strong in **DSA**, and later moved into **Java Full Stack development** ☕. Currently, I focus on **Spring Boot, FastAPI, MongoDB/MySQL, React**, and **RAG pipelines with LLM integration**, while building production-level projects 🚀.
+I build **scalable, real-world systems**, and I care deeply about **how things actually work under the hood**, not just that they work ⚙️🔍.
 
-One thing I take seriously: **clarity over chaos** 🧹 — clean code, clear APIs, and predictable systems matter more than flashy buzzwords ✨.
+My journey began with **Python**, matured through **DSA and problem-solving**, and expanded into **Java Full Stack development**, giving me a solid foundation across languages and paradigms 🚀📚.
 
-- 🌱 Currently learning **Spring Boot (Advanced), FastAPI, RAG Pipelines, LLM Integration, System Design** ☁️
-- 💼 Building a **Real-Time Lost & Found Network** (Spring Boot + React) 🧭
-- 🤖 Working with **LangChain, Vector Databases, and AI-powered applications**
-- 🧠 Strong in **DSA, problem-solving, and backend logic** 🧩
-- 📫 Reach me at: **vishwateja2k4@gmail.com** 🔗
-- 🎯 Goal: **Become the engineer I once searched for on YouTube** 🎓
+Today, I work equally with **Java and Python**, using **Spring Boot** for robust enterprise backends and **FastAPI** for high-performance, async-first services ⚖️🧩.
+
+Alongside backend engineering, I actively build **Generative AI systems**, including **RAG pipelines, AI agents, LangChain, LangGraph, and vector databases**, with a strong focus on real production workflows 🤖🧠.
+
+I believe in **clarity over chaos**—clean code, explicit APIs, predictable behavior, and systems that are easy to reason about always beat shiny abstractions ✨🧹.
+
+---
+
+- 🌱 Currently learning **Advanced Spring Boot, FastAPI internals, LangGraph-based AI agents, RAG pipelines, and System Design** 📈🧠  
+- 💼 Building a **Real-Time Lost & Found Network** using **Spring Boot + React**, designed for scale and real users 🧭⚙️  
+- 🤖 Developing **AI-powered applications** with **LangChain, LangGraph, Vector Databases, and agentic workflows** 🕸️🤖  
+- 🧠 Strong in **DSA, backend architecture, and reasoning-driven problem solving** 🧩💡  
+- 🐍☕ Comfortable switching between **Python and Java**, choosing the tool based on the problem—not hype ⚖️🛠️  
+- 📫 Reach me at: **vishwateja2k4@gmail.com** 📬🔗  
+
+🎯 **Goal:** Become the engineer I once searched for on YouTube—clear, honest, and technically deep 🎓🔥
+
 
 ---
 
