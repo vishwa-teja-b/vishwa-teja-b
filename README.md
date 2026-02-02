@@ -14,7 +14,7 @@ I believe in **clarity over chaos**—clean code, explicit APIs, predictable beh
 
 ---
 
-- 🌱 Currently learning **Advanced Spring Boot, FastAPI internals, LangGraph-based AI agents, RAG pipelines, and System Design** 📈🧠  
+- 🌱 Currently learning **FastAPI internals, Generative AI Developement including LangGraph-based AI agents, RAG pipelines, and System Design** 📈🧠  
 - 💼 Building a **Real-Time Lost & Found Network** using **Spring Boot + React**, designed for scale and real users 🧭⚙️  
 - 🤖 Developing **AI-powered applications** with **LangChain, LangGraph, Vector Databases, and agentic workflows** 🕸️🤖  
 - 🧠 Strong in **DSA, backend architecture, and reasoning-driven problem solving** 🧩💡  
