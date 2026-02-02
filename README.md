@@ -40,7 +40,9 @@ One thing I take seriously: **clarity over chaos** 🧹 — clean code, clear AP
 ![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=flat-square)
 
 ### 🤖 Generative AI & Machine Learning
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+!![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0F172A?style=flat-square&logo=graphql&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-4B5563?style=flat-square&logo=langsmith&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-8B5CF6?style=flat-square)
