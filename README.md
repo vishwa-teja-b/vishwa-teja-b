@@ -14,7 +14,12 @@ I believe in **clarity over chaos**—clean code, explicit APIs, predictable beh
 
 ---
 
-- 🌱 Currently learning **FastAPI internals, Generative AI Developement including LangGraph-based AI agents, RAG pipelines, and System Design** 📈🧠  
+- 🚧 Currently building: **[Unified Multi-Agent AI Platform for Developer Collaboration](https://github.com/vishwa-teja-b/Unified-Multi-Agentic-AI-Platform-for-Dev-Colab-Backend)** 🧠🤝  
+  **Why?** Finding the right teammates for projects is broken—manual searching, mismatched skills, scattered tools.  
+  **What?** A platform where AI agents (Skill Matcher, Team Formation, Project Planner) intelligently match developers, form balanced teams, and auto-generate project roadmaps—with real-time collaboration built in.  
+  **Stack:** FastAPI + LangGraph + ChromaDB + Next.js + WebSocket
+
+- 🌱 Currently learning **FastAPI internals, Generative AI Development including LangGraph-based AI agents, RAG pipelines, and System Design** 📈🧠  
 - 💼 Building a **Real-Time Lost & Found Network** using **Spring Boot + React**, designed for scale and real users 🧭⚙️  
 - 🤖 Developing **AI-powered applications** with **LangChain, LangGraph, Vector Databases, and agentic workflows** 🕸️🤖  
 - 🧠 Strong in **DSA, backend architecture, and reasoning-driven problem solving** 🧩💡  
