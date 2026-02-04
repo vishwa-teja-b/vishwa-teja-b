@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Vishwa 😊
 
-I'm **Vishwateja Brahmaraouthu**, a **Full-Stack Developer** with a strong **backend-first mindset** 🧠 and equal depth in **Java and Python ecosystems** ☕🐍.
+I'm **Vishwateja Brahmaraouthu**, a **Full-Stack & Generative AI Developer** with a strong **backend-first mindset** 🧠 and equal depth in **Java and Python ecosystems** ☕🐍.
 
 I build **scalable, real-world systems**, and I care deeply about **how things actually work under the hood**, not just that they work ⚙️🔍.
 
