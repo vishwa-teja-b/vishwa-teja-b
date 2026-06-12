@@ -52,7 +52,7 @@ Through Java + Spring Boot for enterprise backends, FastAPI for async-first Pyth
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square)
+
  
 ### 🔐 CS Fundamentals
 ![DSA](https://img.shields.io/badge/DSA-FF6F00?style=flat-square)
