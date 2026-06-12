@@ -4,22 +4,22 @@
  
 ## 🧭 5W1H — Who I Am & What I Build
  
-**🙋 WHO**
+**🙋 WHO am I?**
 Full-Stack & Generative AI Developer with a backend-first mindset, equally fluent in Java (Spring Boot) and Python (FastAPI) ecosystems — with depth across DSA, System Design, OS, DBMS, Cryptography, and AI engineering.
  
-**📌 WHAT**
+**📌 WHAT do I build?**
 I build scalable, production-grade systems — RAG pipelines, multi-agent AI workflows (LangGraph/LangChain), microservice backends, and vector database-powered semantic search, all grounded in solid CS fundamentals.
  
-**🌍 WHERE**
+**🌍 WHERE do i work in the stack?**
 On the intersection of traditional backend engineering and modern AI — REST APIs, WebSockets, JWT/OAuth, Docker, and agentic terminals that actually behave in production.
  
-**⏰ WHEN**
+**⏰ WHEN did i build what?**
 Recently shipped DEVCOLAB (multi-agent AI platform) and a Real-Time Lost & Found Network; currently deepening System Design, DSA, and GenAI engineering skills.
  
-**❓ WHY**
+**❓ WHY do i build the way I build?**
 Because systems should be understandable, not just functional — I care about *why* something works before caring *how fast* it runs. Clean APIs, predictable behavior, and reasoned architecture always beat shiny abstractions.
  
-**⚙️ HOW**
+**⚙️ HOW do i build things?**
 Through Java + Spring Boot for enterprise backends, FastAPI for async-first Python services, LangChain/LangGraph for AI agents, vector databases (ChromaDB, Pinecone) for RAG pipelines, and hard CS fundamentals — OS internals, DBMS (B+Tree indexes, transactions), DSA (DP, graphs, sliding window), Cryptography (JWT, OAuth 2.0, hashing), and System Design for everything that needs to scale.
  
 ---
