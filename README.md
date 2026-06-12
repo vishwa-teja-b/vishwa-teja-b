@@ -2,7 +2,7 @@
  
 ---
  
-## 🧭 5W1H — Who I Am & What I Build
+## 🧭 Who I Am & What I Build
  
 **🙋 WHO am I?**
 Full-Stack & Generative AI Developer with a backend-first mindset, equally fluent in Java (Spring Boot) and Python (FastAPI) ecosystems — with depth across DSA, System Design, OS, DBMS, Cryptography, and AI engineering.
