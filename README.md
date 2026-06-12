@@ -14,7 +14,7 @@ I build scalable, production-grade systems — RAG pipelines, multi-agent AI wor
 On the intersection of traditional backend engineering and modern AI — REST APIs, WebSockets, JWT/OAuth, Docker, and agentic terminals that actually behave in production.
  
 **⏰ WHEN**
-Currently building [DEVCOLAB](https://github.com/vishwa-teja-b/Unified-Multi-Agentic-AI-Platform-for-Dev-Colab-Backend) — a multi-agent AI platform for developer collaboration (FastAPI + LangGraph + ChromaDB + Next.js) — and a Real-Time Lost & Found Network (Spring Boot + React + MongoDB).
+Recently shipped DEVCOLAB (multi-agent AI platform) and a Real-Time Lost & Found Network; currently deepening System Design, DSA, and GenAI engineering skills.
  
 **❓ WHY**
 Because systems should be understandable, not just functional — I care about *why* something works before caring *how fast* it runs. Clean APIs, predictable behavior, and reasoned architecture always beat shiny abstractions.
